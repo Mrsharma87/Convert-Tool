@@ -2,13 +2,9 @@
 <span style="font-size: 14px;">Powered by C.o.r.t.e.x.X :rocket:</span>
 
 
-![Easy Convert Tool](https://github.com/CodeWithMayank-Py/easy-convert-tool/blob/main/ECTool_image.png)
+![Easy Convert Tool](https://github.com/Mrsharma87/Convert-Tool/blob/main/Easy-Convert-Tool-main/ECTool_image.png)
 
 Welcome to Easy Convert Tool, a powerful file format conversion tool designed to simplify the process and enhance your productivity.
-
-## Download
-
-Get started with Easy Convert Tool by downloading it from the following link: [Download Easy Convert Tool](https://drive.google.com/drive/folders/1yuMe_az3qaygMWr25jgn9yQReZrBdqFG?usp=sharing)
 
 ## Project Status
 
